@@ -30,6 +30,9 @@ To create a simple, meaningful tool that encourages users to focus on the positi
 
 ### Contract Address: CAWM6VSA5W2JUQOKVG2YGMUP2JLDNOIP455ORQR3BJVST4X6YYE5EP23
 
+![image](https://github.com/user-attachments/assets/92880f6e-0637-4015-852d-5143404e671e)
+
+
 This Soroban contract supports:
 
 ### 1. `add_entry(user: Address, entry: String)`
